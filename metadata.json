@@ -1,0 +1,7 @@
+{
+  "name": "Republic AI Scanner",
+  "description": "A futuristic camera-first experience to scan your space or selfie and discover Republic Day upgrades powered by AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
