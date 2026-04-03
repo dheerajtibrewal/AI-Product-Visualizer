@@ -66,8 +66,30 @@ Camera-first AI experience for visualizing electronics in your space
 
 ## 📸 Screenshots
 
-<!-- Add demo screenshots here -->
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/dbb4cfaf-d821-447e-a060-4fa236105f46" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/56b3516b-6088-4d89-a1a4-7c5d90e842bc" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/6f66144f-2acf-4839-ad0b-a5dbc33dc7ed" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Landing Page</em></td>
+    <td align="center"><em>Upload / Camera</em></td>
+    <td align="center"><em>Select Your Upgrade</em></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/137d2e94-9fd0-4072-9da7-2f7a223ae10b" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/46f8eca5-ac85-4bf6-9c5a-4b340d115761" width="250"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center"><em>AI Generation</em></td>
+    <td align="center"><em>Final Result + Download</em></td>
+    <td></td>
+  </tr>
+</table>
 
----
+
+
 
 **Built as a creative technology POC exploring AI-powered augmented commerce experiences.**
